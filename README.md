@@ -1,3 +1,6 @@
+# update
+change text-selection color
+
 # Obsidian Typewriter
 
 Typewriter is an [Obsidian](https://www.obsidian.md) October-winning theme designed for a focused writing experience.
